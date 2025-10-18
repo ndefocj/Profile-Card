@@ -55,18 +55,11 @@ Optional automated test idea
 - Feel free to file issues or open a PR for improvements.
 - Keep changes small and focused. If adding dependencies or test runners, include instructions in the README.
 
-## Deployment
-
-This is a static site — any static hosting (GitHub Pages, Netlify, Vercel) works. For GitHub Pages:
-
-1. Push this repo to GitHub.
-2. In repository Settings → Pages, select the `main` branch and root (`/`) folder, then Save.
-3. Your page will be available at `https://<username>.github.io/<repo>/` after a short build.
-
 ## License
 
 Add a license if you want to share this publicly (MIT is common for small projects).
 
 ---
+
 
 If you'd like, I can also add a `package.json` and a small Playwright test to automate checks and provide PowerShell commands to run them. Let me know and I will add them.
