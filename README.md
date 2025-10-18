@@ -54,12 +54,3 @@ Optional automated test idea
 
 - Feel free to file issues or open a PR for improvements.
 - Keep changes small and focused. If adding dependencies or test runners, include instructions in the README.
-
-## License
-
-Add a license if you want to share this publicly (MIT is common for small projects).
-
----
-
-
-If you'd like, I can also add a `package.json` and a small Playwright test to automate checks and provide PowerShell commands to run them. Let me know and I will add them.
