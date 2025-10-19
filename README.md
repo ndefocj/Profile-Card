@@ -1,6 +1,6 @@
-# HNGI13 Frontend Stage 0 — Profile Card
+#Profile Card
 
-A simple, accessible profile card used for the HNG internship frontend task. Shows a profile image, bio, current UTC time, social links, and lists of hobbies/dislikes.
+A simple, accessible profile card. Shows a profile image, bio, current UTC time, social links, and lists of hobbies/dislikes.
 
 ## Repository structure
 
@@ -54,3 +54,4 @@ Optional automated test idea
 
 - Feel free to file issues or open a PR for improvements.
 - Keep changes small and focused. If adding dependencies or test runners, include instructions in the README.
+
