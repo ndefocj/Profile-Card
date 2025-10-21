@@ -5,7 +5,7 @@ This repository contains the solution for the HNG Internship (Frontend Track) ta
 ##  Live Demo
 
 You can view the live deployed project here:
-**[https://YOUR_LIVE_URL_HERE.netlify.app/](https://YOUR_LIVE_URL_HERE.netlify.app/)**
+**[https://ndefocj.github.io/ndefocj-frontend-profile-card/](https://ndefocj.github.io/ndefocj-frontend-profile-card/)**
 
 
 
@@ -111,4 +111,5 @@ For context, here were the briefs for each stage.
     - **Content:** Bio, Goals, Areas of low confidence, Note to future self, Extra thoughts.
     - **Structure:** Must use `<main>`, `<section>`, and proper headings.
     - **Testing:** All sections must have their respective `data-testid` attributes.
+
 </details>
