@@ -69,7 +69,7 @@ To run this project on your local machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/ndefocj/ndefocj-frontend-profile-card.git](https://github.com/ndefocj/ndefocj-frontend-profile-card.git)
+    git clone [https://github.com/ndefocj/ndefocj-frontend-profile-card.git]
     ```
 
 2.  **Navigate to the project directory:**
@@ -113,4 +113,5 @@ For context, here were the briefs for each stage.
     - **Testing:** All sections must have their respective `data-testid` attributes.
 
 </details>
+
 
