@@ -63,9 +63,6 @@ The primary goal was to build a clean, accessible, and responsive user interface
     * Client-Side Form Validation
 
 
-e and use the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension.
-
-
 
 ##  Task Requirements
 
@@ -96,6 +93,7 @@ For context, here were the briefs for each stage.
     - **Testing:** All sections must have their respective `data-testid` attributes.
 
 </details>
+
 
 
 
