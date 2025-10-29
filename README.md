@@ -5,7 +5,7 @@ This repository contains the solution for the HNG Internship (Frontend Track) ta
 ##  Live Demo
 
 You can view the live deployed project here:
-**[https://ndefocj.github.io/ndefocj-frontend-profile-card/](https://ndefocj.github.io/ndefocj-frontend-profile-card/)**
+**[https://ndefocj.github.io/Profile-Card/](https://ndefocj.github.io/Profile-Card/)**
 
 
 
@@ -63,24 +63,7 @@ The primary goal was to build a clean, accessible, and responsive user interface
     * Client-Side Form Validation
 
 
-## How to Run Locally
-
-To run this project on your local machine:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/ndefocj/ndefocj-frontend-profile-card.git]
-    ```
-
-2.  **Navigate to the project directory:**
-    ```bash
-    cd ndefocj-frontend-profile-card
-    ```
-
-3.  **Open the project:**
-    * Simply open the `index.html` file in your web browser.
-    * **OR**
-    * For the best experience (to avoid any potential CORS issues), open the folder in VS Code and use the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension.
+e and use the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension.
 
 
 
@@ -113,5 +96,6 @@ For context, here were the briefs for each stage.
     - **Testing:** All sections must have their respective `data-testid` attributes.
 
 </details>
+
 
 
